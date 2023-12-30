@@ -184,7 +184,7 @@ int main()
     SetConsoleOutputCP(1251);
 
     // Using a file-dictionary with words
-    ifstream input("q.txt");
+    ifstream input("voc.txt");
     treeNode* root = getNode();
     string line;
 
