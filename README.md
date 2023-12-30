@@ -5,3 +5,5 @@ This project implements a T9 predictive text input system specifically tailored 
 
 
 The Ukrainian T9 keyboard in this project incorporates grammatical rules and features to enhance text prediction accuracy and user experience.
+
+QT using
